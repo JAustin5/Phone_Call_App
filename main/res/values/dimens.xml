@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewMargin">50dp</dimen>
+    <dimen name="editTextWidth">250dp</dimen>
+    <dimen name="buttonMarginT">30dp</dimen>
+</resources>
